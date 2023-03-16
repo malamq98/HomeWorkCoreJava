@@ -1,7 +1,7 @@
 package hw12Polymorphism;
 /*Method Overloading : same method name with different parameters
  ---same method name with different orientations
- ---Final and Static methods only be return type , it can't be void type 
+ 
  */
 
 public class Sister {

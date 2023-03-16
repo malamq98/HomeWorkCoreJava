@@ -21,7 +21,7 @@ public class Computer {
 		System.out.println("My Brand :" + brand + ", Model :" + model + ", OpeartingSystem :" + opeartingSystem
 				+ ",Price :" + price + ",Grade :" + grade + ",MadeInUsa Ans :" + madeInUSA);
 	}
-	public Computer(String name, int price) {
+	public Computer(String brand, int price) {
 		this.brand = brand;
 		this.price = price;
 		System.out.println("Brand is " + brand + " Price :" + price);
